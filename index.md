@@ -1,22 +1,22 @@
-## Welcome to The LeelaBlockChain Project
+## Welcome to The Leela Blockchain Project
 
 The LNN is a chess centric hybrid blockchain dedicated to the development of the LeelaChessZero and Stockfish chess engine projects. Incorporating both a proof of stake consensus and Proof of Productivity(PoP) mechanism, the LNN provides the framework needed to be able to customize a distributed computing function within any blockchain environment, without restricted the function to the blockchain. Utilizing dual decentralization servers, the LNN allows a defi based blockchain to communicate with a non-defi based blockchain.
 
-Inspired by Wei Dai’s b-money, the ChessHash is a chess based cryptographic algorithm based off the mathematically sound rules of the game of chess. Miners provide chess games to the network in the form of hash data, once games are verified against Leela’s verification process, miners are then rewarded in the LNN’s native network token, known as LeelaCoin. 
+Inspired by Wei Dai’s b-money, the ChessHash is a chess based cryptographic algorithm based off the mathematically sound rules of the game of chess. Training clients provide chess games to the network in the form of hash data, once games are verified against Leela’s verification process, clients are then rewarded in the LNN’s native network token, known as LeelaCoin. 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+//```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+//- Bulleted
+//- List
 
 1. Numbered
 2. List
