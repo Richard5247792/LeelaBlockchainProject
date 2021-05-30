@@ -1,4 +1,4 @@
-## Welcome to The LeelaBlockChainProject
+## Welcome to The LeelaBlockChain Project
 
 The LNN is a chess centric hybrid blockchain dedicated to the development of the LeelaChessZero and Stockfish chess engine projects. Incorporating both a proof of stake consensus and Proof of Productivity(PoP) mechanism, the LNN provides the framework needed to be able to customize a distributed computing function within any blockchain environment, without restricted the function to the blockchain. Utilizing dual decentralization servers, the LNN allows a defi based blockchain to communicate with a non-defi based blockchain.
 
