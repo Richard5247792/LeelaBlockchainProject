@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to The LeelaBlockChainProject
 
-You can use the [editor on GitHub](https://github.com/Richard5247792/LeelaBlockchainProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The LNN is a chess centric hybrid blockchain dedicated to the development of the LeelaChessZero and Stockfish chess engine projects. Incorporating both a proof of stake consensus and Proof of Productivity(PoP) mechanism, the LNN provides the framework needed to be able to customize a distributed computing function within any blockchain environment, without restricted the function to the blockchain. Utilizing dual decentralization servers, the LNN allows a defi based blockchain to communicate with a non-defi based blockchain.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Inspired by Wei Dai’s b-money, the ChessHash is a chess based cryptographic algorithm based off the mathematically sound rules of the game of chess. Miners provide chess games to the network in the form of hash data, once games are verified against Leela’s verification process, miners are then rewarded in the LNN’s native network token, known as LeelaCoin. 
 
 ### Markdown
 
